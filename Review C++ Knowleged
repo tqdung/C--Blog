@@ -1,0 +1,30 @@
+=================================================28/3/2018=================================================
+Starting the plan, Review all my C++ knowleged
+
+Class String
+Different between cin >> variable and getline(cin, variable): Cin >> will passing all charactor that you input into variable but, if it have
+"place space", all charactor after "place space" will waiting for the next extraction
+
+Example:
+#include <string>
+#include <iostream>
+ 
+int main()
+{
+    std::cout << "Enter your full name: ";
+    std::string name;
+    std::cin >> name; // this won't work as expected since std::cin breaks on whitespace
+ 
+    std::cout << "Enter your age: ";
+    std::string age;
+    std::cin >> age;
+ 
+    std::cout << "Your name is " << name << " and your age is " << age;
+}
+output will: 
+Enter your full name: John Doe
+Enter your age: Your name is John and your age is Doe
+
+
+=================================================29/3/2018=================================================
+
