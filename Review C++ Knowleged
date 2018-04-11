@@ -26,5 +26,10 @@ Enter your full name: John Doe
 Enter your age: Your name is John and your age is Doe
 
 
-=================================================29/3/2018=================================================
+=================================================11/4/2018=================================================
+Best way to Building a "string": Use class <string stream>  of <sstream> library
+			std::stringstream ss;
+			ss << "Score = " << score;
+			cout << ss.str() << endl;
+			scoreText.setString(ss.str());
 
