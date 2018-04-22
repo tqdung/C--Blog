@@ -1,2 +1,2 @@
 # Miscellaneous
-Một vài mẹo nhỏ trong công việc
+Một số kiến thức bổ ích tích góp trong quá trình học tập và làm việc
