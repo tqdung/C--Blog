@@ -1,2 +1,2 @@
-# C++ Blog
+# Miscellaneous
 Review my knowleged about C++
