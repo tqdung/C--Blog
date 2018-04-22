@@ -1,2 +1,2 @@
 # Miscellaneous
-Review my knowleged about C++
+Một vài mẹo nhỏ trong công việc
