@@ -31,3 +31,8 @@
 - git clone /directory/dir clone a repository
 - git push origin master push commit to branch master
 - git pull update new source
+  
+  # Confit Git Ignore file
+  - fistly create a file named `.gitignore`
+  - write every thing you want to ignore when pushing code 
+  
