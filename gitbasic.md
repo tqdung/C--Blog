@@ -35,4 +35,4 @@
   # Confit Git Ignore file
   - fistly create a file named `.gitignore`
   - write every thing you want to ignore when pushing code 
-  
+  - <img src="https://www.gitignore.io/img/preview.png">
